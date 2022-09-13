@@ -1,0 +1,14 @@
+1.bbox可正可负
+2.直接align和间接align
+3.ID_head 开关 √
+4.考虑ctp前后时间大小的增强版显示loss
+5.precision recall
+6.检查在train上面的det效果
+
+TODO
+6.detection 线性差值
+7.目前的对齐导致center改变，对ID head造成了影响，去掉ID head
+8.修改7导致的问题
+9.如果不能直接对齐，就间接对齐，间接对齐的方式还能改进优化
+
+
